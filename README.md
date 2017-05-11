@@ -20,5 +20,10 @@
 [lesson4a-catching-errors.js](./lesson4a-catching-errors.js)<br/>
 [lesson4b-catching-errors-when-parent-is-async.js](./lesson4b-catching-errors-when-parent-is-async.js)<br/>
 
+- Await multiple calls. Examples for sequential and concurrent<br/>
+[lesson5a-await-multiple-calls-sequentially.js](./lesson5a-await-multiple-calls-sequentially.js)<br/>
+[lesson5b-await-multiple-calls-concurrently.js](./lesson5b-await-multiple-calls-concurrently.js)<br/>
+
+
 
 Notes taken during video course from [Marius Schultz on egghead](https://egghead.io/lessons/javascript-write-an-asynchronous-function-with-async-await). 
