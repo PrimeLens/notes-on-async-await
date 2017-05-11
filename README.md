@@ -17,3 +17,7 @@ Notes taken during video course from [Marius Schultz on egghead](https://egghead
 
 - Convert parent to method of ES6 class<br/>
 [lesson3c-convert-to-method-of-es6-class.js](./lesson3c-convert-to-method-of-es6-class.js)
+
+- Throwing and catching errors<br/>
+[lesson4a-catching-errors.js](./lesson4a-catching-errors.js)<br/>
+[lesson4b-catching-errors-when-parent-is-async.js](./lesson4b-catching-errors-when-parent-is-async.js)<br/>
