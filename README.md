@@ -1,8 +1,6 @@
 ## My Notes on Async Await
 
-Notes taken during video course from [Marius Schultz on egghead](https://egghead.io/lessons/javascript-write-an-asynchronous-function-with-async-await). 
-
-- Ajax call with a promise compared with async await<br/>
+- Async await vs promise example<br/>
 [lesson1a-with-promise.js](./lesson1a-with-promise.js)<br/>
 [lesson1b-with-await.js](./lesson1b-with-await.js)
 
@@ -21,3 +19,6 @@ Notes taken during video course from [Marius Schultz on egghead](https://egghead
 - Throwing and catching errors<br/>
 [lesson4a-catching-errors.js](./lesson4a-catching-errors.js)<br/>
 [lesson4b-catching-errors-when-parent-is-async.js](./lesson4b-catching-errors-when-parent-is-async.js)<br/>
+
+
+Notes taken during video course from [Marius Schultz on egghead](https://egghead.io/lessons/javascript-write-an-asynchronous-function-with-async-await). 
