@@ -24,6 +24,8 @@
 [lesson5a-await-multiple-calls-sequentially.js](./lesson5a-await-multiple-calls-sequentially.js)<br/>
 [lesson5b-await-multiple-calls-concurrently.js](./lesson5b-await-multiple-calls-concurrently.js)<br/>
 
-
+- The Promise.all() method<br/>
+[lesson6a-promise-all.js](./lesson6a-promise-all.js)<br/>
+[lesson6b-promise-all-with-destructure.js](./lesson6b-promise-all-with-destructure.js)<br/>
 
 Notes taken during video course from [Marius Schultz on egghead](https://egghead.io/lessons/javascript-write-an-asynchronous-function-with-async-await). 
