@@ -31,5 +31,8 @@
 - Using with Bluebird<br/>
 [lesson7-use-with-Bluebird.js](./lesson7-use-with-Bluebird.js)<br/>
 
+- Asynchronous iteration<br/>
+[lesson8a-for-of-loop.js](./lesson8a-for-of-loop.js)<br/>
+[lesson8b-for-await-of-loop.js](./lesson8b-for-await-of-loop.js)<br/>
 
 Notes taken during video course from [Marius Schultz on egghead](https://egghead.io/lessons/javascript-write-an-asynchronous-function-with-async-await). 
