@@ -28,4 +28,8 @@
 [lesson6a-promise-all.js](./lesson6a-promise-all.js)<br/>
 [lesson6b-promise-all-with-destructure.js](./lesson6b-promise-all-with-destructure.js)<br/>
 
+- Using with Bluebird<br/>
+[lesson7-use-with-Bluebird.js](./lesson7-use-with-Bluebird.js)<br/>
+
+
 Notes taken during video course from [Marius Schultz on egghead](https://egghead.io/lessons/javascript-write-an-asynchronous-function-with-async-await). 
